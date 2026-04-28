@@ -1,17 +1,16 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ramish Khan</h1>
 <h3 align="center">I'm a Programmer and Passionate Full Stack Developer From India....</h3>
-<p align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
-</p>
+
+
 ## 📌 About Me
-<div>
+
 - 🌱 I’m currently building scalable Full Stack applications using MERN stack...
 - 👯 I’m looking to collaborate on innovative web apps and open-source projects...
 - 🤝 I’m looking for help with system design and backend optimization...
 - 💬 Ask me about Web Development, React, and DSA...
 - 🚀 Goal: To become a skilled Software Engineer and build impactful products...
 - ⚡ Fun fact: I love turning ideas into real-world applications...
-</div>
+
 
 ## 🛠️ Languages & Tools
 
