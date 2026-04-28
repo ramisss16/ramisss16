@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Ramish Khan</h1>
 <h3 align="center">I'm a Programmer and Passionate Full Stack Developer From India....</h3>
-<p align="center">
+<p align="right">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500px"/>
 </p>
 ## 📌 About Me
